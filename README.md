@@ -96,6 +96,9 @@
 <p align="center">
 	<a href="mailto:johan.m46@pm.me"><img src="https://img.icons8.com/fluency/50/000000/protonmail.png" alt="ProtonMail" title="Envoyez-moi un e-mail" /></a>
 	<a href="https://github.com/JohanMazzoleni"><img src="https://img.icons8.com/fluency/50/000000/github.png" alt="GitHub" title="Mon Github"/></a>
-  <a href="https://www.malt.fr/profile/johanmazzoleni"><img src="https://img.icons8.com/external-prettycons-flat-prettycons/50/000000/external-job-social-media-prettycons-flat-prettycons.png" alt="Malt" title="Besoin d'un freelance ? Malt.fr"/></a>
   <a href="https://github.com/JohanMazzoleni/JohanMazzoleni/blob/main/JohanM_0x9B5E6DBC_public.asc"><img src="https://img.icons8.com/office/50/000000/user-credentials.png" alt="PGP KEY" title="Ma clé publique"/></a>
+</p>
+
+<p align="center">
+<a href="https://www.malt.fr/profile/johanmazzoleni"><img src="https://raw.githubusercontent.com/JohanMazzoleni/JohanMazzoleni/main/Malt_logo_pink.svg" alt="Malt" title="Besoin d'un freelance ? Malt.fr"/></a>
 </p>
