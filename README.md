@@ -13,56 +13,38 @@
 ### 👉 Développement Frontend
 <p align="left"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
+  <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"></a>   
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%23E34F26.svg?logo=css3&logoColor=white">
-  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%23E34F26.svg?logo=css3&logoColor=white"></a> 
    &emsp;
-   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
-    <img alt="Javascript" src="https://img.shields.io/badge/Javascript%20-%23E34F26.svg?logo=javascript&logoColor=white">
-  </a> 
+   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/Javascript%20-%23E34F26.svg?logo=javascript&logoColor=white"></a> 
    &emsp;
 </p>
 
 ### 👉 Framework Frontend
 <p align="left"> 
    &emsp;
-   <a href="https://vuejs.org/" target="_blank">
-    <img alt="VueJS" src="https://img.shields.io/badge/VueJS%20-%23430098.svg?logo=javascript&logoColor=white">
-  </a> 
+   <a href="https://vuejs.org/" target="_blank"><img alt="VueJS" src="https://img.shields.io/badge/VueJS%20-%23430098.svg?logo=javascript&logoColor=white"></a> 
    &emsp;
-   <a href="https://nuxtjs.org/" target="_blank">
-    <img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS%20-%23430098.svg?logo=javascript&logoColor=white">
-  </a> 
+   <a href="https://nuxtjs.org/" target="_blank"><img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS%20-%23430098.svg?logo=javascript&logoColor=white"></a> 
    &emsp;
 </p>
 
 ### 👉 Développement Backend
 <p align="left"> 
    &emsp;
-   <a href="https://vuejs.org/" target="_blank">
-    <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS%20-%23316192.svg?logo=javascript&logoColor=white">
-  </a> 
+   <a href="https://vuejs.org/" target="_blank"><img alt="NodeJS" src="https://img.shields.io/badge/NodeJS%20-%23316192.svg?logo=javascript&logoColor=white"></a> 
    &emsp;
-   <a href="https://nuxtjs.org/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23316192.svg?logo=php&logoColor=white">
-  </a> 
+   <a href="https://nuxtjs.org/" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23316192.svg?logo=php&logoColor=white"></a> 
    &emsp;
 </p>
 
 ### 👉 Base de données
 <p align="left"> 
    &emsp;
-   <a href="https://vuejs.org/" target="_blank">
-    <img alt="MYSQL" src="https://img.shields.io/badge/Mysql%20-%2307405e.svg?logo=mysql&logoColor=white">
-  </a> 
+   <a href="https://vuejs.org/" target="_blank"><img alt="MYSQL" src="https://img.shields.io/badge/Mysql%20-%2307405e.svg?logo=mysql&logoColor=white"></a> 
    &emsp;
-   <a href="https://vuejs.org/" target="_blank">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%2307405e.svg?logo=mongodb&logoColor=white">
-  </a> 
+   <a href="https://vuejs.org/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%2307405e.svg?logo=mongodb&logoColor=white"></a> 
    &emsp;
 </p>
 
