@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=D%C3%A9veloppeur+FrontEnd+%7C+BackEnd;Int%C3%A9gration+de+maquette;Malt+Freelancer;Framework+Favoris%3A+VueJS+%7C+NuxtJS"></a>
 </p>
 <hr/>
-<h4 align="center">Je suis développeur web et autodidacte depuis 2 ans, j'ai un diplôme Développeur Web de niveau 5 (bac +2) et je suis freelance sur <a href="https://www.malt.fr/profile/johanmazzoleni" target="_blank">Malt.fr</a>. Si vous avez besoin de conseil ou d'un développeur web pour votre site. Contactez-moi sur Malt.fr ou depuis mon adresse mail johan.m46@pm.me .</h4>
+<h4 align="center">Je suis développeur web et autodidacte depuis 2 ans, j'ai un diplôme Développeur Web de niveau 5 (bac +2) et je suis freelance sur <a href="https://www.malt.fr/profile/johanmazzoleni" target="_blank">Malt.fr</a>. Si vous avez besoin de conseil ou d'un développeur web pour votre site. Contactez-moi sur Malt.fr ou depuis mon adresse mail johan.mazzoleni@pm.me .</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JohanMazzoleni&label=Profile%20views&color=0e75b6&style=plastic" alt="JohanMazzoleni" /> </p>
 
